@@ -28,3 +28,5 @@ Each number represents the number of inflammation bouts that a particular patien
 For example, value “6” at row 3 column 7 of the data set above means that the third patient was experiencing inflammation six times on the seventh day of the clinical study.
 
 In order to analyze this data and report to our colleagues, we’ll have to learn a little bit about programming.
+
+# The data are uploaded together within this Github
